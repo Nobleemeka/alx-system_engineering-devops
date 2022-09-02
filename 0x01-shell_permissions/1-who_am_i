@@ -1,2 +1,2 @@
-#!/b8n/bash
+#!/bin/bash
 whoami
