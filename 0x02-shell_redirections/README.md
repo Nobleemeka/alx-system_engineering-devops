@@ -1,1 +1,1 @@
-a script that prints “Hello, World”
+Display the last 10 lines of /etc/passwd
