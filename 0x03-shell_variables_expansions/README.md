@@ -1,1 +1,1 @@
-Script in 2-path file adds /action to the PATH
+ a script that counts the number of directories in the PATH
